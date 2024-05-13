@@ -1,4 +1,4 @@
-# League of Azeroth Map Contest - $1000 USD prize
+# League of Azeroth Map Contest - 1000 USD prize
 
 Welcome to the League of Azeroth Map Contest! We're excited to invite talented modders from the World of Warcraft community to showcase their creativity and design skills by creating custom maps inspired by the popular MOBA game, Dota 2, within the World of Warcraft universe.
 
